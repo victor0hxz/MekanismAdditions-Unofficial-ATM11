@@ -1,5 +1,8 @@
 # Mekanism: Additions Version Locked
 
+<!-- curseforge-project -->
+**CurseForge: [Version Locked fan project page](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions-version-locked).**
+
 <!-- installed-version-locked -->
 **Current download: [Mekanism: Additions Version Locked](https://github.com/victor0hxz/MekanismAdditions-Unofficial-ATM11/releases/tag/atm11-instance-2026-10-08)** — [download JAR directly](https://github.com/victor0hxz/MekanismAdditions-Unofficial-ATM11/releases/download/atm11-instance-2026-10-08/MekanismAdditions-Version-Locked-26.1.2-1.0.jar).
 
