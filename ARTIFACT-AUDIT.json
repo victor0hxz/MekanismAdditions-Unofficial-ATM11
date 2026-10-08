@@ -1,0 +1,13 @@
+{
+  "originalJar": "MekanismAdditions-26.1.2-10.8.0.homebaked.jar",
+  "originalSha256": "c679311c57cd745173f3c817973718be1d104d98d2a565e76936f580111a8004",
+  "publishedArchiveSha256": "dbbeb865702ae71fb7eed07f0cc2f5a6fa4058fe7bba07c4b143c4aeca2772d9",
+  "classes": 96,
+  "classMajors": [
+    69
+  ],
+  "licenseEmbedded": true,
+  "archiveIntegrity": "PASS",
+  "jsonParsing": "PASS",
+  "runtimeValidation": "Compiled artifact located in the previous ATM11 server correction package. Archive integrity and metadata verified; no new full-pack runtime validation was performed for this publication."
+}
